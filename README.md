@@ -22,8 +22,11 @@ I specialize in functional, accessibility, and performance testing — blending 
 
 ### 🚀 Projects
 
-- 🧪 **Automation Framework (Java + Selenium + TestNG)**  
-  End-to-end automation setup for web applications with detailed reporting.
+- 🧪 **[Automation Framework (Java + Selenium + TestNG)](https://github.com/jchub58/Saucedemo-Selenium-TestNG-framework)**  
+  End-to-end UI automation suite with Page Object Model, reusable utilities, and Allure reporting.
+
+- 🥒 **[Cucumber BDD Framework (Selenium + TestNG + Cucumber)](https://github.com/jchub58/Saucedemo-CucumberBDD-framework)**  
+  Behavior-driven test automation using Gherkin for readable and maintainable test scenarios.
 
 - 🌐 **API Testing Collection (Postman)**  
   Collection of API test cases including assertions, chaining, and Newman integration.
