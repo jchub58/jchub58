@@ -28,13 +28,13 @@ I specialize in functional, accessibility, and performance testing — blending 
 - 🥒 **[Cucumber BDD Framework (Selenium + TestNG + Cucumber)](https://github.com/jchub58/Saucedemo-CucumberBDD-framework)**  
   Behavior-driven test automation using Gherkin for readable and maintainable test scenarios.
 
-- 🌐 **API Testing Collection (Postman)**  
+- 🌐 **API Testing (Postman)**  
   Collection of API test cases including assertions, chaining, and Newman integration.
 
 - ⚙️ **Performance Testing (JMeter)**  
   Simulated load test for eCommerce and API endpoints with analytical reports.
 
-- ♿ **Accessibility Testing Examples**  
+- ♿ **Accessibility Testing**  
   WCAG-based validation using tools like NVDA, JAWS, and Color Contrast Analyzer.
 
 ---
