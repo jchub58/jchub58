@@ -48,22 +48,15 @@
 
 ## 🚀 Projects
 
-### 🔹 Automation Testing Framework
-- Built Selenium automation framework using Java
-- Implemented Page Object Model (POM)
-- Added reusable test components
-- Designed test scenarios for web applications
+## 🚀 SDET Portfolio Projects
 
-### 🔹 API Automation using RestAssured(https://github.com/jchub58/ApiAutomation-RestAssured)
-- Automated CRUD API test cases
-- Validated JSON responses
-- Implemented assertions for response validation
-
-### 🔹 CI/CD Pipeline Project
-- Designed Jenkins pipeline for automated testing
-- Integrated GitHub repository
-- Used Docker for environment consistency
-- Automated build and test execution
+| Project | Description | Link |
+|--------|-------------|------|
+| API Test Automation Framework | RestAssured + TestNG framework for API testing | [View Repo](https://github.com/your-username/api-test-automation-framework) |
+| UI Test Automation Framework | Selenium POM based automation framework | [View Repo](https://github.com/your-username/ui-test-automation-framework) |
+| End-to-End Automation Project | UI + API combined automation testing | [View Repo](https://github.com/your-username/e2e-test-automation-project) |
+| Docker Compose Test Environment | Containerized automation execution environment | [View Repo](https://github.com/your-username/docker-compose-test-environment) |
+| CI/CD Pipeline | Jenkins pipeline for automated testing | [View Repo](https://github.com/your-username/cicd-test-automation-pipeline) |
 
 ---
 
