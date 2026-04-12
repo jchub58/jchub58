@@ -3,13 +3,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔍 QA Engineer with experience in **Functional Testing, Automation Testing and API Testing**
+- 🔍 QA Engineer with experience in **Functional Testing, Automation Testing and API Testing (RestAssured)**
 - 🤖 Skilled in **Java, Selenium, RestAssured**
 - 🔄 Expertise in **CI/CD pipelines (Jenkins, Docker)**
 - 🧪 Experience in **SDLC, STLC, Agile Scrum**
-- 🌱 Currently learning **RestAssured, Playwright with TS**
+- 🌱 Currently learning **Appium, Playwright with TS**
 
 ---
 
@@ -54,7 +54,7 @@
 - Added reusable test components
 - Designed test scenarios for web applications
 
-### 🔹 API Automation using RestAssured
+### 🔹 API Automation using RestAssured(https://github.com/jchub58/ApiAutomation-RestAssured)
 - Automated CRUD API test cases
 - Validated JSON responses
 - Implemented assertions for response validation
@@ -68,10 +68,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jchub58&show_icons=true&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jchub58&theme=tokyonight"/>
