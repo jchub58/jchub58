@@ -48,8 +48,6 @@
 
 ## 🚀 Projects
 
-## 🚀 SDET Portfolio Projects
-
 | Project | Description | Link |
 |--------|-------------|------|
 | API Test Automation Framework | RestAssured + TestNG framework for API testing | [View Repo](https://github.com/your-username/api-test-automation-framework) |
