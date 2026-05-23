@@ -6,18 +6,18 @@
 ## About Me
 
 - 🔍 QA Engineer with experience in **Functional Testing, Automation Testing and API Testing (RestAssured)**
-- 🤖 Skilled in **Java, Selenium, RestAssured**
+- 🤖 Skilled in **Java, Selenium, Plyawright, Typescript**
 - 🔄 Expertise in **CI/CD pipelines (Jenkins, Docker)**
 - 🧪 Experience in **SDLC, STLC, Agile Scrum**
-- 🌱 Currently learning **Appium, Playwright with TS**
+- 🌱 Currently learning **RestAssured, Appium**
 
 ---
 
 ## 🛠️ Skills
 
 ### Testing
-- Test Automation (Selenium WebDriver)
-- API Testing (Postman, RestAssured)
+- Test Automation (Selenium WebDriver, Playwright)
+- API Testing (Postman)
 - Functional Testing
 - Regression Testing
 - Smoke Testing
@@ -26,6 +26,7 @@
 
 ### Programming & Tools
 - Java
+- Typescript
 - Python
 - SQL
 - Git & GitHub
@@ -50,11 +51,11 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| API Test Automation Framework | RestAssured + TestNG framework for API testing | [View Repo](https://github.com/your-username/api-test-automation-framework) |
-| UI Test Automation Framework | Selenium POM based automation framework | [View Repo](https://github.com/your-username/ui-test-automation-framework) |
-| End-to-End Automation Project | UI + API combined automation testing | [View Repo](https://github.com/your-username/e2e-test-automation-project) |
-| Docker Compose Test Environment | Containerized automation execution environment | [View Repo](https://github.com/your-username/docker-compose-test-environment) |
-| CI/CD Pipeline | Jenkins pipeline for automated testing | [View Repo](https://github.com/your-username/cicd-test-automation-pipeline) |
+| API Test Automation Framework | RestAssured + TestNG framework for API testing | [View Repo](https://github.com/jchub58/api-test-automation-framework) |
+| UI Test Automation Framework | Selenium POM based automation framework | [View Repo](https://github.com/jchub58/ui-test-automation-framework) |
+| End-to-End Automation Project | UI + API combined automation testing | [View Repo](https://github.com/jchub58/e2e-test-automation-project) |
+| Docker Compose Test Environment | Containerized automation execution environment | [View Repo](https://github.com/jchub58/docker-compose-test-environment) |
+| CI/CD Pipeline | Jenkins pipeline for automated testing | [View Repo](https://github.com/jchub58/cicd-test-automation-pipeline) |
 
 ---
 
