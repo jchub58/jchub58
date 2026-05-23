@@ -51,12 +51,12 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| API Test Automation Framework | RestAssured + TestNG framework for API testing | [View Repo](https://github.com/jchub58/api-test-automation-framework) |
-| UI Test Automation Framework | Selenium POM based automation framework | [View Repo](https://github.com/jchub58/ui-test-automation-framework) |
-| End-to-End Automation Project | UI + API combined automation testing | [View Repo](https://github.com/jchub58/e2e-test-automation-project) |
-| Docker Compose Test Environment | Containerized automation execution environment | [View Repo](https://github.com/jchub58/docker-compose-test-environment) |
-| CI/CD Pipeline | Jenkins pipeline for automated testing | [View Repo](https://github.com/jchub58/cicd-test-automation-pipeline) |
-
+| API Test Automation Framework | RestAssured + TestNG framework for API testing | [View Repo](https://github.com/jchub58/ApiAutomation-RestAssured) |
+| UI Test Automation Framework | Selenium POM based automation framework | [View Repo](https://github.com/jchub58/CucumberBDD-framework) |
+| UI Test Automation Framework | Playwright with TS, POM based automation framework | [View Repo](https://github.com/jchub58/playwright-TS-Framework) |
+| End-to-End Automation Project | UI + API combined automation testing | [View Repo](https://github.com/jchub58/E2E-UI-API-test-suite) |
+| Docker Compose Test Environment | Containerized automation execution environment | [View Repo](https://github.com/jchub58/DockerCompose-TestEnvironment) |
+<!-- | CI/CD Pipeline | Jenkins pipeline for automated testing | [View Repo](https://github.com/jchub58/cicd-test-automation-pipeline) |-->
 ---
 
 ## 📊 GitHub Stats
